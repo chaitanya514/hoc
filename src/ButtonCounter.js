@@ -15,4 +15,4 @@ class ButtonCounter extends React.Component {
     }
 }
 
-export default updatedComponent(ButtonCounter)
+export default updatedComponent(ButtonCounter,5)

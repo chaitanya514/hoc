@@ -7,7 +7,7 @@ import MouseHoverCounter from "./MouseHoverCounter"
 function App() {
   return (
     <div className="App">
-      <ButtonCounter />
+      <ButtonCounter name= "chaitanya" />
       <MouseHoverCounter />
     </div>
   );

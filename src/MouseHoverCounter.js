@@ -14,4 +14,4 @@ class MouseHoverCounter extends React.Component {
     }
 }
 
-export default updatedComponent(MouseHoverCounter)
+export default updatedComponent(MouseHoverCounter,10)
